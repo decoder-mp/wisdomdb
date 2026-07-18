@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .env
 lore.db
+*.db
 .pytest_cache/
 .vscode/
 .venv/
