@@ -1,0 +1,11 @@
+<svg width="920" height="240" viewBox="0 0 920 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="240" rx="32" fill="#111416"/>
+  <g transform="translate(54 24)">
+    <circle cx="96" cy="96" r="78" stroke="#F6F0E3" stroke-width="10" fill="none"/>
+    <ellipse cx="96" cy="96" rx="40" ry="56" fill="#D26F34"/>
+    <path d="M96 56C88 70 78 84 78 98C78 112 86 124 96 136C106 124 114 112 114 98C114 84 104 70 96 56Z" fill="#111416"/>
+    <path d="M64 40L72 54M128 40L120 54M40 72L54 78M152 72L138 78M40 120L54 114M152 120L138 114" stroke="#B89950" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="210" y="112" fill="#F6F0E3" font-family="Georgia, serif" font-size="92" letter-spacing="1.2">Lore</text>
+  <text x="214" y="158" fill="#CDBD9D" font-family="Manrope, sans-serif" font-size="26" letter-spacing="2.2">HUMANITY'S LIVING MEMORY</text>
+</svg>

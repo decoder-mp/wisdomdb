@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+alembic
+pydantic[email]
+sqlalchemy
+psycopg[binary]
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt<4.1
+openai
+sentence-transformers
+
+python-multipart

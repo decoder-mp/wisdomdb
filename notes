@@ -1,0 +1,48 @@
+v0.1  Create lore
+v0.2  SQLite persistence
+v0.3  Search
+v0.4  Random wisdom
+v0.5  Themes
+v0.6  Stats + Quote
+v0.7  Professions
+v0.8 Timestamp
+v0.9 Today + Recent + Health
+v1.0 — Users(id, username, email, bio, joined_at)
+v1.1 — Authentication
+v1.2 — Comments
+v1.3 — Likes
+v1.4 — Bookmarks
+v1.6 — Recommendations - (especially for new users)
+v1.7 — AI Theme Extraction
+v1.8 — AI Summaries
+v1.9 — AI Wisdom Discovery
+
+v0.1  Create Lore
+v0.2  SQLite Persistence
+v0.3  Search
+v0.4  Random Wisdom
+v0.5  Themes
+v0.6  Stats + Quote
+v0.7  Professions
+v0.8  Timestamp
+v0.9  Today + Recent + Health
+
+v1.0  Users
+v1.1  Authentication
+v1.2  Comments
+v1.3  Likes
+v1.4  Bookmarks
+v1.5  User Profiles
+v1.6  Recommendations
+v1.7  AI Theme Extraction
+v1.8  AI Summaries
+v1.9  AI Wisdom Discovery
+v2.0  Public Launch
+
+v2.1  Mobile Responsive Design
+v2.2  User Settings
+v2.3  Notifications
+v2.4  Following System
+v2.5  Public Profiles
+
+v3.0  AI Wisdom Engine

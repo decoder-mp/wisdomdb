@@ -1,0 +1,79 @@
+RUN: C:\Users\mirap\AppData\Roaming\npm\railway.CMD status
+EXIT: 0
+STDOUT:
+
+Workspace:       decoder-mp's Projects
+
+Project:         zestful-liberation
+Project ID:      2df98456-f605-4184-8a55-dc272b73089b
+
+Environment:     production
+Environment ID:  cce1d5ee-2fb2-4213-b62e-3a15bd4737e0
+
+Linked service
+
+backend
+    status:        ● Online · Building (4m)
+    url:           https://backend-production-9f5c.up.railway.app
+    region:        sfo
+    deployment ID: 560bf573-5bfe-4bd8-8634-8ee7e677b040
+    service ID:    1cdda93e-9bcc-4a19-a882-0f6bb5bfb734
+
+────────────────────────────────────────────────
+
+All resources
+
+    Services
+      - web: ● Online · https://web-production-29736.up.railway.app
+      - backend: ● Online · Building (4m) · https://backend-production-9f5c.up.railway.app
+    Databases
+      - Postgres: ● Online · postgres-volume
+
+
+STDERR:
+
+------------------------------------------------------------
+RUN: C:\Users\mirap\AppData\Roaming\npm\railway.CMD add -d postgres
+EXIT: 1
+STDOUT:
+
+STDERR:
+> What do you need? Database
+Failed to add PostgreSQL: Free plan resource provision limit exceeded. Please upgrade to provision more resources!
+
+------------------------------------------------------------
+RUN: C:\Users\mirap\AppData\Roaming\npm\railway.CMD status
+EXIT: 0
+STDOUT:
+
+Workspace:       decoder-mp's Projects
+
+Project:         zestful-liberation
+Project ID:      2df98456-f605-4184-8a55-dc272b73089b
+
+Environment:     production
+Environment ID:  cce1d5ee-2fb2-4213-b62e-3a15bd4737e0
+
+Linked service
+
+backend
+    status:        ● Online
+    url:           https://backend-production-9f5c.up.railway.app
+    region:        sfo
+    deployment ID: be0469eb-42fe-4c8d-b006-9ad71e2adcd0
+    service ID:    1cdda93e-9bcc-4a19-a882-0f6bb5bfb734
+
+────────────────────────────────────────────────
+
+All resources
+
+    Services
+      - web: ● Online · https://web-production-29736.up.railway.app
+      - backend: ● Online · https://backend-production-9f5c.up.railway.app
+    Databases
+      - Postgres: ● Online · postgres-volume
+
+
+STDERR:
+
+------------------------------------------------------------
